@@ -1,30 +1,22 @@
 <div align="center">
 
-<p align="center"><img src="https://js-readme-typing-svg.vercel.app/svg?lines=Julia%20do%20Nascimento%3BEngenharia%20de%20Software%20%7C%20Dados%20%26%20Automacao&fontSize=24&color=9B7EDE&width=720&height=60" alt="Apresentação animada" /></p>
+<p align="center"><img src="https://js-readme-typing-svg.vercel.app/svg?lines=Julia%20do%20Nascimento%3BEngenharia%20de%20Software%20%7C%20Dados%20%26%20Automacao&fontSize=22&color=8B78A8&width=650&height=52" alt="Apresentação animada" /></p>
 
-<p>
-  <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">
-    <img src="https://img.shields.io/badge/LINKEDIN-7B61B8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:julianascimento@unoeste.edu.br">
-    <img src="https://img.shields.io/badge/E--MAIL-9B7EDE?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://github.com/julia-nascimento-dev">
-    <img src="https://img.shields.io/badge/GITHUB-4A4458?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">LinkedIn</a>
+  · <a href="mailto:julianascimento@unoeste.edu.br">E-mail</a>
+  · <a href="https://github.com/julia-nascimento-dev">GitHub</a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-9B7EDE?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Guaruj%C3%A1%20%7C%20SP-7B61B8?style=flat-square" alt="Localização" />
-  <img src="https://img.shields.io/badge/foco-Dados%20%26%20Automa%C3%A7%C3%A3o-8B5E83?style=flat-square" alt="Foco" />
+<p align="center">
+  <sub>Guarujá, SP · Dados & Automação</sub>
 </p>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+## Sobre mim
 
 ```text
 > cat sobre_mim.txt
@@ -42,7 +34,7 @@ Gosto de entender um problema, organizar as informações e transformar tudo iss
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -57,7 +49,7 @@ Gosto de entender um problema, organizar as informações e transformar tudo iss
 
 ---
 
-## 🚀 O que estou construindo
+## Projetos
 
 Atualmente estou desenvolvendo projetos para transformar conhecimentos de programação e dados em aplicações práticas:
 
@@ -68,7 +60,7 @@ Atualmente estou desenvolvendo projetos para transformar conhecimentos de progra
 
 ---
 
-## 🎯 O que busco
+## O que busco
 
 Estou construindo meu caminho na tecnologia e explorando oportunidades em:
 
@@ -78,7 +70,7 @@ Tenho interesse em **estágio e posições de entrada**, especialmente na Baixad
 
 ---
 
-## 🎓 Formação
+## Formação
 
 **Engenharia de Software — UNOESTE**  
 Estudante
@@ -87,7 +79,7 @@ Estudante
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Estatísticas do GitHub" />
@@ -98,7 +90,7 @@ Estudante
 
 <div align="center">
 
-### 💜 Vamos construir algo?
+### Vamos conversar?
 
 <a href="mailto:julianascimento@unoeste.edu.br">Entre em contato</a>
 
