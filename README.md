@@ -1,10 +1,10 @@
-<!-- BANNER -->
+<!-- BANNER ANIMADO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7EDE&height=180&section=header&text=Julia%20do%20Nascimento&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Julia do Nascimento" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7B61B8&center=true&vCenter=true&width=650&lines=Tecnologia+aplicada+a+processos+reais;Dados+e+Automa%C3%A7%C3%A3o+de+Processos;Estudante+de+Engenharia+de+Software" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7B61B8&center=true&vCenter=true&width=700&lines=Tecnologia+aplicada+a+processos+reais;Dados+e+Automa%C3%A7%C3%A3o+de+Processos;Transformando+dados+em+solu%C3%A7%C3%B5es;Estudante+de+Engenharia+de+Software" alt="Texto animado" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## Sobre mim
+## 👩🏻‍💻 Sobre mim
 
 Sou estudante de **Engenharia de Software na UNOESTE** e Técnica em **Logística pela ETEC Alberto Santos Dumont**.
 
@@ -27,7 +27,7 @@ Atualmente, estou construindo meu portfólio em tecnologia, explorando **dados, 
 
 Meu diferencial é unir minha experiência com processos e logística ao conhecimento em tecnologia para organizar informações e transformar dados em soluções.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -40,11 +40,11 @@ Meu diferencial é unir minha experiência com processos e logística ao conheci
   <img src="https://img.shields.io/badge/Git-8B5E83?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## O que estou construindo
+## 🚀 O que estou construindo
 
 Estou desenvolvendo projetos práticos para aplicar programação, dados e automação em problemas do dia a dia, com foco em **logística, organização de informações e melhoria de processos**.
 
-## Projetos
+## 📌 Projetos
 
 | Projeto | Descrição | Tecnologias | Status | Link |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ Estou desenvolvendo projetos práticos para aplicar programação, dados e autom
 | **Sistema de Controle de Estoque** | Sistema para controle e organização de estoque. | Python · SQLite · Streamlit | Em andamento | Em breve |
 | **Automação de Relatório de Pedidos** | Automação para tratamento de pedidos usando dados e planilhas. | Python · pandas · Excel | Em andamento | Em breve |
 
-## O que busco
+## 🎯 O que busco
 
 Busco uma oportunidade de **estágio ou posição júnior** nas áreas de:
 
@@ -64,23 +64,21 @@ Tenho interesse em oportunidades na **Baixada Santista**, especialmente Guarujá
 
 Quero continuar desenvolvendo minhas habilidades técnicas enquanto aplico minha experiência com processos, dados e logística na resolução de problemas reais.
 
-## Formação
+## 🎓 Formação
 
 **Engenharia de Software — UNOESTE**  
 Estudante
 
 **Técnica em Logística — ETEC Alberto Santos Dumont**
 
-## Estatísticas do GitHub
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&hide_border=true&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Principais linguagens" />
 </p>
 
-> Esta seção utiliza um serviço externo gratuito e pode ser removida caso o serviço fique indisponível.
-
-## Contato
+## 💜 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">
@@ -91,7 +89,7 @@ Estudante
   </a>
 </p>
 
-<!-- BANNER RODAPÉ -->
+<!-- BANNER RODAPÉ ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7EDE&height=120&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7EDE&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
 </p>
