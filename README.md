@@ -1,35 +1,50 @@
-<!-- BANNER ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7EDE&height=180&section=header&text=Julia%20do%20Nascimento&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Julia do Nascimento" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=9B7EDE&center=true&vCenter=true&width=720&lines=%24+whoami;Julia+do+Nascimento;Engenharia+de+Software+%7C+Dados+%7C+Automação" alt="Apresentação animada" />
+
+<p>
+  <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">
+    <img src="https://img.shields.io/badge/LINKEDIN-7B61B8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:julianascimento@unoeste.edu.br">
+    <img src="https://img.shields.io/badge/E--MAIL-9B7EDE?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://github.com/julia-nascimento-dev">
+    <img src="https://img.shields.io/badge/GITHUB-4A4458?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7B61B8&center=true&vCenter=true&width=700&lines=Tecnologia+aplicada+a+processos+reais;Dados+e+Automa%C3%A7%C3%A3o+de+Processos;Transformando+dados+em+solu%C3%A7%C3%B5es;Estudante+de+Engenharia+de+Software" alt="Texto animado" />
+<p>
+  <img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-9B7EDE?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Guaruj%C3%A1%20%7C%20SP-7B61B8?style=flat-square" alt="Localização" />
+  <img src="https://img.shields.io/badge/foco-Dados%20%26%20Automa%C3%A7%C3%A3o-8B5E83?style=flat-square" alt="Foco" />
 </p>
 
-<p align="center">
-  <strong>Estudante de Engenharia de Software · Técnica em Logística · Dados e Automação</strong>
-</p>
-
-<p align="center">
-  Guarujá, SP, Brasil · Baixada Santista · Remoto
-</p>
+</div>
 
 ---
 
 ## 👩🏻‍💻 Sobre mim
 
+```text
+> cat sobre_mim.txt
+```
+
 Sou estudante de **Engenharia de Software na UNOESTE** e Técnica em **Logística pela ETEC Alberto Santos Dumont**.
 
-Tenho quase 2 anos de experiência como **Analista Financeira**, com atuação em auditoria de contratos, controle de carteira de clientes e elaboração de relatórios e indicadores em Excel.
+Tenho experiência profissional na área financeira, trabalhando com **auditoria de contratos, controle de dados, carteira de clientes, relatórios e indicadores em Excel**.
 
-Atualmente, estou construindo meu portfólio em tecnologia, explorando **dados, automação de processos e desenvolvimento de soluções práticas**.
+Hoje estou direcionando essa experiência para a tecnologia, construindo projetos práticos com **dados, programação e automação de processos**.
 
-Meu diferencial é unir minha experiência com processos e logística ao conhecimento em tecnologia para organizar informações e transformar dados em soluções.
+Gosto de entender um problema, organizar as informações e transformar tudo isso em uma solução que realmente faça sentido.
+
+> 💡 **Meu foco:** tecnologia aplicada a processos reais, especialmente em dados, automação e operações.
+
+---
 
 ## 🛠️ Tecnologias
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-7B61B8?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Excel-5B8C7A?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
@@ -40,29 +55,28 @@ Meu diferencial é unir minha experiência com processos e logística ao conheci
   <img src="https://img.shields.io/badge/Git-8B5E83?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+---
+
 ## 🚀 O que estou construindo
 
-Estou desenvolvendo projetos práticos para aplicar programação, dados e automação em problemas do dia a dia, com foco em **logística, organização de informações e melhoria de processos**.
+Atualmente estou desenvolvendo projetos para transformar conhecimentos de programação e dados em aplicações práticas:
 
-## 📌 Projetos
+- 📊 **Dashboard de Indicadores Logísticos** — Power BI
+- 📦 **Sistema de Controle de Estoque** — Python · SQLite · Streamlit
+- ⚙️ **Automação de Relatório de Pedidos** — Python · pandas · Excel
+- 🌱 **Projeto educacional sobre meio ambiente** — Engenharia de Software / extensão
 
-| Projeto | Descrição | Tecnologias | Status | Link |
-|---|---|---|---|---|
-| **Dashboard de Indicadores Logísticos** | Acompanhamento de prazo de entrega, atrasos e custo de frete. | Power BI | Em andamento | Em breve |
-| **Sistema de Controle de Estoque** | Sistema para controle e organização de estoque. | Python · SQLite · Streamlit | Em andamento | Em breve |
-| **Automação de Relatório de Pedidos** | Automação para tratamento de pedidos usando dados e planilhas. | Python · pandas · Excel | Em andamento | Em breve |
+---
 
 ## 🎯 O que busco
 
-Busco uma oportunidade de **estágio ou posição júnior** nas áreas de:
+Estou construindo meu caminho na tecnologia e explorando oportunidades em:
 
-- Tecnologia da Informação
-- Análise de Dados
-- Logística
+**Dados · Automação · Tecnologia · Processos · Logística**
 
-Tenho interesse em oportunidades na **Baixada Santista**, especialmente Guarujá, Santos e Cubatão, ou em posições remotas.
+Tenho interesse em **estágio e posições de entrada**, especialmente na Baixada Santista ou em oportunidades remotas.
 
-Quero continuar desenvolvendo minhas habilidades técnicas enquanto aplico minha experiência com processos, dados e logística na resolução de problemas reais.
+---
 
 ## 🎓 Formação
 
@@ -71,6 +85,8 @@ Estudante
 
 **Técnica em Logística — ETEC Alberto Santos Dumont**
 
+---
+
 ## 📊 GitHub
 
 <p align="center">
@@ -78,18 +94,12 @@ Estudante
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&hide_border=true&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Principais linguagens" />
 </p>
 
-## 💜 Contato
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">
-    <img src="https://img.shields.io/badge/LinkedIn-7B61B8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:julianascimento@unoeste.edu.br">
-    <img src="https://img.shields.io/badge/E--mail-9B7EDE?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-</p>
+<div align="center">
 
-<!-- BANNER RODAPÉ ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7EDE&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
-</p>
+### 💜 Vamos construir algo?
+
+<a href="mailto:julianascimento@unoeste.edu.br">Entre em contato</a>
+
+</div>
