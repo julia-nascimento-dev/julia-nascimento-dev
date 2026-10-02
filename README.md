@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7B61B8&center=true&vCenter=true&width=650&lines=Log%C3%ADstica+%2B+Tecnologia;Dados+e+Automa%C3%A7%C3%A3o+de+Processos;Estudante+de+Engenharia+de+Software" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7B61B8&center=true&vCenter=true&width=650&lines=Tecnologia+aplicada+a+processos+reais;Dados+e+Automa%C3%A7%C3%A3o+de+Processos;Estudante+de+Engenharia+de+Software" alt="Texto animado" />
 </p>
 
 <p align="center">
