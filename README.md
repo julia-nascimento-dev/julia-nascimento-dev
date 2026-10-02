@@ -34,19 +34,7 @@ Meu diferencial é combinar conhecimentos de logística e tecnologia para trabal
 - SAP básico
 - Noções de redes
 
-## Projetos
 
-**Dashboard de Indicadores Logísticos — Em andamento**  
-Dashboard em Power BI para acompanhamento de prazo de entrega, atrasos e custo de frete.  
-[Link do projeto](SEU-LINK-AQUI)
-
-**Sistema de Controle de Estoque — Em andamento**  
-Sistema desenvolvido em Python com SQLite e Streamlit para controle de estoque.  
-[Link do projeto](SEU-LINK-AQUI)
-
-**Automação de Relatório com Python — Em andamento**  
-Automação de relatório utilizando Python e pandas para organização e tratamento de dados.  
-[Link do projeto](SEU-LINK-AQUI)
 
 ## O que busco
 
