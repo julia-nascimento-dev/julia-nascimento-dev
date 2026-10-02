@@ -57,5 +57,6 @@ Quero continuar desenvolvendo minhas habilidades técnicas enquanto aplico minha
 
 ## Contato
 
-- LinkedIn: [SEU-LINK-AQUI](SEU-LINK-AQUI)
-- E-mail: jubzvgoat@gmail.com
+- LinkedIn: www.linkedin.com/in/julia-do-nascimento-pereira-42a894289
+- E-mail: julianascimento@unoeste.edu.br
+
