@@ -1,10 +1,10 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=180&section=header&text=Julia%20Nascimento&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Julia Nascimento" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7EDE&height=180&section=header&text=Julia%20do%20Nascimento&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Julia do Nascimento" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=1F3A5F&center=true&vCenter=true&width=650&lines=Log%C3%ADstica+%2B+Tecnologia;Dados+e+Automa%C3%A7%C3%A3o+de+Processos;Estudante+de+Engenharia+de+Software" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7B61B8&center=true&vCenter=true&width=650&lines=Log%C3%ADstica+%2B+Tecnologia;Dados+e+Automa%C3%A7%C3%A3o+de+Processos;Estudante+de+Engenharia+de+Software" alt="Texto animado" />
 </p>
 
 <p align="center">
@@ -30,14 +30,14 @@ Meu diferencial é unir minha experiência com processos e logística ao conheci
 ## Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-7B61B8?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-5B8C7A?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-9B7EDE?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/JavaScript-C9A227?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-C97878?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-6F8FAF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-8B5E83?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ## O que estou construindo
@@ -74,8 +74,8 @@ Estudante
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&title_color=1F3A5F&icon_color=1F3A5F&text_color=444444&bg_color=FFFFFF" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&hide_border=true&title_color=1F3A5F&text_color=444444&bg_color=FFFFFF" height="165" alt="Principais linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&hide_border=true&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Principais linguagens" />
 </p>
 
 > Esta seção utiliza um serviço externo gratuito e pode ser removida caso o serviço fique indisponível.
@@ -84,14 +84,14 @@ Estudante
 
 <p align="left">
   <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-7B61B8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:julianascimento@unoeste.edu.br">
-    <img src="https://img.shields.io/badge/E--mail-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-9B7EDE?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
 <!-- BANNER RODAPÉ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=120&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7EDE&height=120&section=footer" width="100%" alt="" />
 </p>
