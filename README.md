@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=9B7EDE&center=true&vCenter=true&width=720&lines=%24+whoami;Julia+do+Nascimento;Engenharia+de+Software+%7C+Dados+%7C+Automação" alt="Apresentação animada" />
+<p align="center"><img src="https://js-readme-typing-svg.vercel.app/svg?lines=Julia%20do%20Nascimento%3BEngenharia%20de%20Software%20%7C%20Dados%20%26%20Automacao&fontSize=24&color=9B7EDE&width=720&height=60" alt="Apresentação animada" /></p>
 
 <p>
   <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">
