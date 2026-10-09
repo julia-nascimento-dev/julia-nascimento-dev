@@ -96,10 +96,16 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
   <a href="https://github.com/julia-nascimento-dev"><img src="https://ghchart.rshah.org/7B61B8/julia-nascimento-dev" width="100%" alt="Gráfico de contribuições recentes no GitHub" /></a>
 </div>
 
-## Conquistas
+## Conquistas e evolução
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julia-nascimento-dev&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=3&title=Joined2020,Commits,Repositories" width="72%" alt="Conquistas do perfil GitHub" />
+
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-em%20constru%C3%A7%C3%A3o-7B61B8?style=flat-square" alt="Portfólio em construção" />
+<img src="https://img.shields.io/badge/Projetos-pr%C3%A1ticos-9B7EDE?style=flat-square" alt="Projetos práticos" />
+<img src="https://img.shields.io/badge/Aprendizado-cont%C3%ADnuo-8B5E83?style=flat-square" alt="Aprendizado contínuo" />
+
+<sub>Registrando minha evolução na tecnologia por meio de projetos, prática e aprendizado constante.</sub>
+
 </div>
 
 ---
