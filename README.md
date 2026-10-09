@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&customColorList=12,20,24&text=Julia%20do%20Nascimento&fontSize=38&fontColor=ffffff&fontAlignY=43&desc=Engenharia%20de%20Software%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Banner de Julia do Nascimento" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=9B7EDE&text=Julia%20do%20Nascimento&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Engenharia%20de%20Software%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o&descSize=14&descAlignY=68" width="100%" alt="Julia do Nascimento — Engenharia de Software, dados e automação" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=9B7EDE&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Python%2C+SQL+e+an%C3%A1lise+de+dados;Transformando+problemas+em+solu%C3%A7%C3%B5es+pr%C3%A1ticas" alt="Animação de apresentação" />
+<p><sub>Estudante de Engenharia de Software · Python · SQL · Análise de dados</sub></p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289"><img src="https://img.shields.io/badge/LinkedIn-7B61B8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/julia-nascimento-dev"><img src="https://img.shields.io/badge/GitHub-4A4458?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:julianascimento@unoeste.edu.br"><img src="https://img.shields.io/badge/E--mail-9B7EDE?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289"><img src="https://img.shields.io/badge/LinkedIn-7B61B8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/julia-nascimento-dev"><img src="https://img.shields.io/badge/GitHub-4A4458?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:julianascimento@unoeste.edu.br"><img src="https://img.shields.io/badge/E--mail-9B7EDE?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
-<img src="https://img.shields.io/badge/Guaruj%C3%A1%2C%20SP-Brasil-8B5E83?style=flat-square" alt="Localização: Guarujá, São Paulo" />
-<img src="https://img.shields.io/badge/Em%20constante-aprendizado-7B61B8?style=flat-square" alt="Em constante aprendizado" />
+<img src="https://img.shields.io/badge/Guaruj%C3%A1%2C%20SP-Brasil-8B5E83?style=flat" alt="Localização: Guarujá, São Paulo" />
+<img src="https://img.shields.io/badge/Em%20constante-aprendizado-7B61B8?style=flat" alt="Em constante aprendizado" />
 
 </div>
 
@@ -39,9 +39,9 @@ Atualmente, estou desenvolvendo meu portfólio com projetos práticos e aprofund
 ### Dados e automação
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite" alt="Python, MySQL e SQLite" />
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Power%20BI-E6B800?style=for-the-badge&logo=powerbi&logoColor=222222" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Power%20BI-E6B800?style=flat&logo=powerbi&logoColor=222222" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
 
 ### Desenvolvimento web
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,vite" alt="HTML, CSS, JavaScript, React, TypeScript e Vite" />
@@ -61,7 +61,7 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
       <h3>Automação e Análise de Relatórios de Pedidos</h3>
       <p>Projeto em Python que simula um fluxo de dados comerciais: geração de base, limpeza e padronização, cálculo de indicadores, exportação de relatório para Excel e criação de gráficos.</p>
       <p><strong>Tecnologias:</strong> Python, Pandas, OpenPyXL, Matplotlib e Seaborn.</p>
-      <a href="https://github.com/julia-nascimento-dev/automacao-relatorio-pedidos"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-7B61B8?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" /></a>
+      <a href="https://github.com/julia-nascimento-dev/automacao-relatorio-pedidos"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-7B61B8?style=flat&logo=github&logoColor=white" alt="Ver repositório" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>Planeta Conecta</h3>
