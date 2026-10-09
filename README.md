@@ -99,7 +99,7 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
 ## Conquistas
 
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=julia-nascimento-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Conquistas do perfil GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=julia-nascimento-dev&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=3&title=Joined2020,Commits,Repositories" width="72%" alt="Conquistas do perfil GitHub" />
 </div>
 
 ---
