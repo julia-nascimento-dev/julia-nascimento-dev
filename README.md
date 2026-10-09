@@ -102,12 +102,6 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
   <img src="https://trophy.ryglcloud.net/?username=julia-nascimento-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Conquistas do perfil GitHub" />
 </div>
 
-## Minha contribuição, dia após dia
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/julia-nascimento-dev/julia-nascimento-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Animação da grade de contribuições do GitHub" />
-</div>
-
 ---
 
 <div align="center">
