@@ -93,7 +93,7 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
 ## Atividade recente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julia-nascimento-dev&theme=github-compact&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub" />
+  <a href="https://github.com/julia-nascimento-dev"><img src="https://ghchart.rshah.org/7B61B8/julia-nascimento-dev" width="100%" alt="Gráfico de contribuições recentes no GitHub" /></a>
 </div>
 
 ## Conquistas
