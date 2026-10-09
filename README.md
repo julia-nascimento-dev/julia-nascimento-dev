@@ -93,13 +93,13 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
 ## Atividade recente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julia-nascimento-dev&bg_color=ffffff&color=4A4458&line=9B7EDE&point=7B61B8&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julia-nascimento-dev&theme=github-compact&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub" />
 </div>
 
 ## Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julia-nascimento-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Conquistas do perfil GitHub" />
+  <img src="https://trophy.ryglcloud.net/?username=julia-nascimento-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Conquistas do perfil GitHub" />
 </div>
 
 ## Minha contribuição, dia após dia
