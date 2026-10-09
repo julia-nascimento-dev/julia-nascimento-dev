@@ -96,17 +96,27 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
   <a href="https://github.com/julia-nascimento-dev"><img src="https://ghchart.rshah.org/7B61B8/julia-nascimento-dev" width="100%" alt="Gráfico de contribuições recentes no GitHub" /></a>
 </div>
 
-## Conquistas e evolução
+## Conquistas
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Portf%C3%B3lio-em%20constru%C3%A7%C3%A3o-7B61B8?style=flat-square" alt="Portfólio em construção" />
-<img src="https://img.shields.io/badge/Projetos-pr%C3%A1ticos-9B7EDE?style=flat-square" alt="Projetos práticos" />
-<img src="https://img.shields.io/badge/Aprendizado-cont%C3%ADnuo-8B5E83?style=flat-square" alt="Aprendizado contínuo" />
-
-<sub>Registrando minha evolução na tecnologia por meio de projetos, prática e aprendizado constante.</sub>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>01</strong><br/>
+      <sub>PROJETOS</sub><br/><br/>
+      Desenvolvimento de projetos práticos para o portfólio.
+    </td>
+    <td align="center" width="33%">
+      <strong>02</strong><br/>
+      <sub>TECNOLOGIA</sub><br/><br/>
+      Aplicação de Python, SQL e ferramentas de análise de dados.
+    </td>
+    <td align="center" width="33%">
+      <strong>03</strong><br/>
+      <sub>EVOLUÇÃO</sub><br/><br/>
+      Aprendizado contínuo em Engenharia de Software.
+    </td>
+  </tr>
+</table>
 
 ---
 
