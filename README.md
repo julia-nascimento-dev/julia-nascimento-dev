@@ -1,105 +1,127 @@
 <div align="center">
 
-<p align="center"><img src="https://js-readme-typing-svg.vercel.app/svg?lines=Julia%20do%20Nascimento%3BEngenharia%20de%20Software%20%7C%20Dados%20%26%20Automacao&fontSize=22&color=8B78A8&width=650&height=52" alt="Apresentação animada" /></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&customColorList=12,20,24&text=Julia%20do%20Nascimento&fontSize=38&fontColor=ffffff&fontAlignY=43&desc=Engenharia%20de%20Software%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Banner de Julia do Nascimento" />
 
-<p>
-  <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">
-    <img src="https://img.shields.io/badge/LINKEDIN-7B61B8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:julianascimento@unoeste.edu.br">
-    <img src="https://img.shields.io/badge/E--MAIL-9B7EDE?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://github.com/julia-nascimento-dev">
-    <img src="https://img.shields.io/badge/GITHUB-4A4458?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-9B7EDE?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Guaruj%C3%A1%20%7C%20SP-7B61B8?style=flat-square" alt="Localização" />
-  <img src="https://img.shields.io/badge/foco-Dados%20%26%20Automa%C3%A7%C3%A3o-8B5E83?style=flat-square" alt="Foco" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=9B7EDE&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Python%2C+SQL+e+an%C3%A1lise+de+dados;Transformando+problemas+em+solu%C3%A7%C3%B5es+pr%C3%A1ticas" alt="Animação de apresentação" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289"><img src="https://img.shields.io/badge/LinkedIn-7B61B8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/julia-nascimento-dev"><img src="https://img.shields.io/badge/GitHub-4A4458?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:julianascimento@unoeste.edu.br"><img src="https://img.shields.io/badge/E--mail-9B7EDE?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+<img src="https://img.shields.io/badge/Guaruj%C3%A1%2C%20SP-Brasil-8B5E83?style=flat-square" alt="Localização: Guarujá, São Paulo" />
+<img src="https://img.shields.io/badge/Em%20constante-aprendizado-7B61B8?style=flat-square" alt="Em constante aprendizado" />
 
 </div>
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+## Sobre mim
 
-```text
-> cat sobre_mim.txt
-```
+Sou estudante de **Engenharia de Software na UNOESTE** e Técnica em **Logística pela ETEC Alberto Santos Dumont**. Minha experiência profissional na área financeira envolve auditoria de contratos, acompanhamento de carteira de clientes, organização de dados, relatórios e indicadores em Excel.
 
-Sou estudante de **Engenharia de Software na UNOESTE** e Técnica em **Logística pela ETEC Alberto Santos Dumont**.
+Estou levando essa bagagem para a tecnologia, com interesse em **análise de dados, automação e desenvolvimento de soluções para problemas reais**. Gosto de entender o processo antes de automatizá-lo e de documentar o que construo para que outras pessoas também consigam entender.
 
-Tenho experiência profissional na área financeira, trabalhando com **auditoria de contratos, controle de dados, carteira de clientes, relatórios e indicadores em Excel**.
+Atualmente, estou desenvolvendo meu portfólio com projetos práticos e aprofundando meus conhecimentos em programação, dados e ferramentas de desenvolvimento.
 
-Hoje estou direcionando essa experiência para a tecnologia, construindo projetos práticos com **dados, programação e automação de processos**.
+- **Formação atual:** Engenharia de Software — UNOESTE (2026–2029)
+- **Formação técnica:** Logística — ETEC Alberto Santos Dumont
+- **Experiência:** área financeira, auditoria de contratos, relatórios e indicadores
+- **Interesses:** Python, SQL, análise de dados, automação e tecnologia aplicada a processos
 
-Gosto de entender um problema, organizar as informações e transformar tudo isso em uma solução que realmente faça sentido.
+## Tecnologias e ferramentas
 
-> 💡 **Meu foco:** tecnologia aplicada a processos reais, especialmente em dados, automação e operações.
+<div align="center">
 
----
+### Dados e automação
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" alt="Python, MySQL e SQLite" />
 
-## 🛠️ Tecnologias
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Power%20BI-E6B800?style=for-the-badge&logo=powerbi&logoColor=222222" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 
-<p>
-  <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-7B61B8?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-5B8C7A?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-9B7EDE?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/JavaScript-C9A227?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-C97878?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-6F8FAF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-8B5E83?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+### Desenvolvimento web
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,vite" alt="HTML, CSS, JavaScript, React, TypeScript e Vite" />
 
----
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />
 
-## 🚀 O que estou construindo
+</div>
 
-Atualmente estou desenvolvendo projetos para transformar conhecimentos de programação e dados em aplicações práticas:
+Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias exibidas representam conhecimentos e ferramentas com que estudo ou desenvolvo projetos; continuo aprofundando essas competências na prática.
 
-- 📊 **Dashboard de Indicadores Logísticos** — Power BI
-- 📦 **Sistema de Controle de Estoque** — Python · SQLite · Streamlit
-- ⚙️ **Automação de Relatório de Pedidos** — Python · pandas · Excel
-- 🌱 **Projeto educacional sobre meio ambiente** — Engenharia de Software / extensão
+## Projetos em destaque
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Automação e Análise de Relatórios de Pedidos</h3>
+      <p>Projeto em Python que simula um fluxo de dados comerciais: geração de base, limpeza e padronização, cálculo de indicadores, exportação de relatório para Excel e criação de gráficos.</p>
+      <p><strong>Tecnologias:</strong> Python, Pandas, OpenPyXL, Matplotlib e Seaborn.</p>
+      <a href="https://github.com/julia-nascimento-dev/automacao-relatorio-pedidos"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-7B61B8?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Planeta Conecta</h3>
+      <p>Site educativo e interativo sobre educação ambiental, pensado para crianças e adolescentes de 8 a 16 anos. A proposta combina conteúdo curto, quizzes e atividades individuais ou em grupo.</p>
+      <p><strong>Tecnologias:</strong> React, TypeScript, Vite e Tailwind CSS.</p>
+      <p><em>Em desenvolvimento. O repositório está privado no momento.</em></p>
+    </td>
+  </tr>
+</table>
 
-## 🎯 O que busco
+### Próximos projetos do portfólio
 
-Estou construindo meu caminho na tecnologia e explorando oportunidades em:
+| Projeto | Objetivo | Tecnologias previstas |
+| --- | --- | --- |
+| Dashboard de Indicadores Logísticos | Acompanhar prazos de entrega, atrasos e custos de frete | Power BI |
+| Sistema de Controle de Estoque | Organizar e acompanhar movimentações de estoque | Python, SQLite e Streamlit |
 
-**Dados · Automação · Tecnologia · Processos · Logística**
+## GitHub em números
 
-Tenho interesse em **estágio e posições de entrada**, especialmente na Baixada Santista ou em oportunidades remotas.
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&hide_border=true&langs_count=8&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" alt="Linguagens mais utilizadas" />
+</div>
 
----
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=julia-nascimento-dev&hide_border=true&background=FFFFFF&ring=9B7EDE&fire=8B5E83&currStreakLabel=7B61B8&sideLabels=4A4458&currStreakNum=4A4458&sideNums=4A4458&dates=777777" alt="Sequência de contribuições no GitHub" />
+</div>
 
-## 🎓 Formação
+## Atividade recente
 
-**Engenharia de Software — UNOESTE**  
-Estudante
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julia-nascimento-dev&bg_color=ffffff&color=4A4458&line=9B7EDE&point=7B61B8&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub" />
+</div>
 
-**Técnica em Logística — ETEC Alberto Santos Dumont**
+## Conquistas
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=julia-nascimento-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Conquistas do perfil GitHub" />
+</div>
 
-## 📊 GitHub
+## Minha contribuição, dia após dia
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&hide_border=true&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" height="165" alt="Principais linguagens" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/julia-nascimento-dev/julia-nascimento-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Animação da grade de contribuições do GitHub" />
+</div>
 
 ---
 
 <div align="center">
 
-### 💜 Vamos construir algo?
+### Vamos nos conectar
 
-<a href="mailto:julianascimento@unoeste.edu.br">Entre em contato</a>
+Estou construindo meu caminho na tecnologia com projetos práticos, curiosidade e vontade de aprender. Se quiser trocar ideias sobre dados, automação ou desenvolvimento, será um prazer conversar.
+
+<a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">LinkedIn</a> · <a href="mailto:julianascimento@unoeste.edu.br">E-mail</a> · <a href="https://github.com/julia-nascimento-dev">GitHub</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Feito%20com-curiosidade%20e%20cafe-8B5E83?style=flat-square" alt="Feito com curiosidade e café" />
+
+<sub>Atualizado por Julia do Nascimento · 2026</sub>
 
 </div>
