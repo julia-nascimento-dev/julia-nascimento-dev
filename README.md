@@ -21,14 +21,14 @@
 
 Sou estudante de **Engenharia de Software na UNOESTE** e Técnica em **Logística pela ETEC Alberto Santos Dumont**. Antes de direcionar meus estudos para tecnologia, construí experiência na área financeira, trabalhando com auditoria de contratos, acompanhamento de carteira de clientes, organização de informações, relatórios e indicadores em Excel.
 
-Essa experiência despertou ainda mais meu interesse por dados e pela melhoria de processos. Hoje, busco unir essa visão de negócio à tecnologia, desenvolvendo projetos com **Python, SQL, automação e análise de dados**.
+Essa experiência despertou meu interesse por dados e pela forma como a tecnologia pode transformar informações em decisões e processos mais eficientes. Desde então, venho direcionando meus estudos para o universo dos dados, especialmente para temas como **engenharia de dados, integração e transformação de informações, bancos de dados e construção de pipelines**.
 
-Ainda estou construindo minha trajetória profissional em tecnologia, mas já venho colocando meus conhecimentos em prática por meio de projetos próprios e acadêmicos. Gosto de entender o problema, estruturar uma solução, testar e documentar o processo — não apenas fazer algo funcionar, mas também compreender como e por que funciona.
+Tenho colocado esse interesse em prática em projetos com **Python, SQL e ferramentas de análise**, explorando etapas como extração, validação, tratamento e organização de dados. Gosto de entender o caminho que a informação percorre, desde a origem até sua utilização, buscando construir soluções bem estruturadas, confiáveis e documentadas.
 
 - **Formação:** Engenharia de Software — UNOESTE (2026–2029)
 - **Formação técnica:** Logística — ETEC Alberto Santos Dumont
 - **Experiência anterior:** área financeira, auditoria de contratos, relatórios e indicadores
-- **Foco atual:** Python, SQL, pipelines de dados, análise e automação de processos
+- **Estudos e projetos:** Python, SQL, engenharia de dados, pipelines, integração e qualidade de dados
 - **Localização:** Guarujá — SP, Brasil
 
 ## Tecnologias e ferramentas
@@ -90,7 +90,7 @@ Ainda estou construindo minha trajetória profissional em tecnologia, mas já ve
 
 ### Vamos nos conectar
 
-Estou construindo minha carreira em tecnologia com projetos práticos, curiosidade e disposição para aprender. Tenho interesse em oportunidades nas áreas de dados, automação e desenvolvimento de software.
+Estou construindo minha carreira em tecnologia com projetos práticos, curiosidade e disposição para aprender. Tenho direcionado meus estudos e projetos para a área de dados, com interesse especial em engenharia de dados, pipelines e automação.
 
 <a href="https://www.linkedin.com/in/julia-do-nascimento-pereira-42a894289">LinkedIn</a> · <a href="mailto:julianascimento@unoeste.edu.br">E-mail</a> · <a href="https://github.com/julia-nascimento-dev">GitHub</a>
 
