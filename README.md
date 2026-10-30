@@ -77,18 +77,12 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
 ## GitHub em números
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=julia-nascimento-dev&layout=compact&langs_count=8&hide_border=true&card_width=360&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" alt="Distribuição das linguagens mais utilizadas nos repositórios" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&langs_count=8&hide_border=true&card_width=360&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" alt="Distribuição das linguagens mais utilizadas nos repositórios" />
 </div>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=julia-nascimento-dev&hide_border=true&background=FFFFFF&ring=9B7EDE&fire=8B5E83&currStreakLabel=7B61B8&sideLabels=4A4458&currStreakNum=4A4458&sideNums=4A4458&dates=777777" alt="Sequência de contribuições no GitHub" />
-</div>
-
-## Atividade
-
-<div align="center">
-  <a href="https://github.com/julia-nascimento-dev"><img src="https://ghchart.rshah.org/7B61B8/julia-nascimento-dev" width="100%" alt="Gráfico de contribuições no GitHub" /></a>
 </div>
 
 ---
