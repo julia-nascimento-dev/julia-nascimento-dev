@@ -53,7 +53,6 @@ Ainda estou construindo minha trajetória profissional em tecnologia, mas já ve
 
 </div>
 
-Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias listadas representam ferramentas que já utilizei ou venho estudando em atividades práticas; continuo aprofundando esses conhecimentos.
 
 ## Projetos em destaque
 
