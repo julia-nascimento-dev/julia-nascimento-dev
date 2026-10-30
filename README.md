@@ -72,20 +72,6 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
       <a href="https://github.com/julia-nascimento-dev/automacao-relatorio-pedidos"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-7B61B8?style=flat&logo=github&logoColor=white" alt="Ver repositório" /></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Planeta Conecta</h3>
-      <p>Site educativo e interativo sobre educação ambiental, pensado para crianças e adolescentes de 8 a 16 anos. A proposta combina conteúdos curtos, quizzes e atividades individuais ou em grupo.</p>
-      <p><strong>Tecnologias:</strong> React, TypeScript, Vite e Tailwind CSS.</p>
-      <p><em>Projeto acadêmico em desenvolvimento. Repositório privado.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Everyday Access</h3>
-      <p>Projeto web com foco em acessibilidade digital, desenvolvido para apresentar orientações sobre serviços digitais de forma simples e didática.</p>
-      <p><strong>Tecnologias:</strong> React, TypeScript, Vite e Tailwind CSS.</p>
-      <p><em>Projeto acadêmico em desenvolvimento. Repositório privado.</em></p>
-    </td>
-  </tr>
 </table>
 
 ## GitHub em números
