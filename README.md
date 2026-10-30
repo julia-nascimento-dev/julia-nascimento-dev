@@ -88,19 +88,11 @@ Também tenho contato com **SAP básico** e fundamentos de redes. As tecnologias
   </tr>
 </table>
 
-## Colaboração
-
-### CDPEMA — Desenvolvimento web
-
-Participação em projeto colaborativo de desenvolvimento web, contribuindo com tarefas de configuração e estrutura do projeto, incluindo **sitemap** e integração do **Vercel Analytics**.
-
-<a href="https://github.com/Grs2080w/CDPEMA"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio%20CDPEMA-7B61B8?style=flat&logo=github&logoColor=white" alt="Repositório CDPEMA" /></a>
-
 ## GitHub em números
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=julia-nascimento-dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=7B61B8&icon_color=9B7EDE&text_color=4A4458&bg_color=FFFFFF" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nascimento-dev&layout=compact&hide_border=true&langs_count=8&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" alt="Linguagens mais utilizadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=julia-nascimento-dev&layout=compact&langs_count=8&hide_border=true&card_width=360&title_color=7B61B8&text_color=4A4458&bg_color=FFFFFF" alt="Distribuição das linguagens mais utilizadas nos repositórios" />
 </div>
 
 <div align="center">
